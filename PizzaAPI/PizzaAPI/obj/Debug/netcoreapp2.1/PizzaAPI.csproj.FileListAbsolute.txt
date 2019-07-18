@@ -1,0 +1,13 @@
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\obj\Debug\netcoreapp2.1\PizzaAPI.csproj.CoreCompileInputs.cache
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\obj\Debug\netcoreapp2.1\PizzaAPI.RazorAssemblyInfo.cache
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\obj\Debug\netcoreapp2.1\PizzaAPI.RazorAssemblyInfo.cs
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\obj\Debug\netcoreapp2.1\PizzaAPI.AssemblyInfoInputs.cache
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\obj\Debug\netcoreapp2.1\PizzaAPI.AssemblyInfo.cs
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\bin\Debug\netcoreapp2.1\PizzaAPI.deps.json
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\bin\Debug\netcoreapp2.1\PizzaAPI.runtimeconfig.json
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\bin\Debug\netcoreapp2.1\PizzaAPI.runtimeconfig.dev.json
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\bin\Debug\netcoreapp2.1\PizzaAPI.dll
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\bin\Debug\netcoreapp2.1\PizzaAPI.pdb
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\obj\Debug\netcoreapp2.1\PizzaAPI.RazorTargetAssemblyInfo.cache
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\obj\Debug\netcoreapp2.1\PizzaAPI.dll
+C:\Users\shiin\Desktop\PizzaAPI\PizzaAPI\obj\Debug\netcoreapp2.1\PizzaAPI.pdb
